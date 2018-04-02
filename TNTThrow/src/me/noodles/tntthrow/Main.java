@@ -8,6 +8,7 @@ public class Main extends JavaPlugin {
 	public void onEnable() {	
 	getServer().getPluginManager().registerEvents(new Command(), this);
 	getServer().getConsoleSender().sendMessage("ThrowTNT has been enabled!");
+	
 	}
 	
 	@Override
