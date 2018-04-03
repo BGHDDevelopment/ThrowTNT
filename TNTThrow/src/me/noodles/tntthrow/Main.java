@@ -10,7 +10,6 @@ public class Main extends JavaPlugin {
 	getServer().getConsoleSender().sendMessage("ThrowTNT has been enabled!");
 	}
 	
-	
 	@Override
 	public void onDisable() {
 	getServer().getConsoleSender().sendMessage("ThrowTNT has been disabled!");
