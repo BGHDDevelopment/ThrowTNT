@@ -1,0 +1,4 @@
+name: ThrowTNT
+version: ${project.version}
+main: me.noodles.tntthrow.Main
+authors: [BGHDDevelopment]
